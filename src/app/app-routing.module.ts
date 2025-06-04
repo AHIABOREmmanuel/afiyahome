@@ -14,7 +14,7 @@ const routes: Routes = [
   {path:"about",component: AboutComponent},
   {path:"men",component: MenComponent},
   {path:"women",component: WomenComponent},
-  {path:"kid",component: KidsComponent},
+  {path:"kids",component: KidsComponent},
   {path:"accessories",component: AccessoriesComponent},
   {path:"contacts",component: ContactsComponent},
   {path:"card",component: CardComponent}
